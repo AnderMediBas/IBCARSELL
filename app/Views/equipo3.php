@@ -19,7 +19,7 @@
             <a href="" class="menu-item">Contacto</a>
             <div class="menu-button">
                 <a href="" class="menu-vender" type="button">Vender</a>    
-                <a href="" class="menu-User"><img src="img/1814089_account_user_person_profile_avatar_icon.png"></a>    
+                <a href="" class="menu-User"><img src="app/Views/style-equipo3/style.css"></a>    
             </div>
             
         </div>
