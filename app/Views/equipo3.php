@@ -1,3 +1,4 @@
+<!--EQUIPO 3 CULMINADO-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
